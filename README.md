@@ -9,6 +9,7 @@ Microsoft Power BI
 Power Query (ETL)
 Excel (Source data)
 Map visuals, Pie charts, Card visuals, Line chart, Table visual
+
 🚀 Key Features
 🔹 1. KPI Summary Cards
 Total Sales – 1.3M
@@ -32,10 +33,12 @@ Interactive map showing countries served and key business locations.
 🔹 7. Filters
 Date Range Slider
 Ship Mode Filters (Economy, Economy Plus, Immediate)
+
 📁 Files in Repository
 SN_Corp_Dashboard.pbix – Power BI project file
 SN_Corp_Dashboard.png – Screenshot preview
 README.md – Documentation
+
 ✨ Project Description
 This dashboard was created as part of a hands-on workshop to understand how BI tools help businesses make informed decisions.
 It demonstrates skills in:
@@ -43,6 +46,7 @@ It demonstrates skills in:
 Data cleaning using Power Query
 Designing a visually balanced and meaningful analytical report
 Using advanced properties like drill-through and interactive filtering
+
 💡 Learning Outcomes
 End-to-end experience building a BI dashboard
 Real-world KPI analysis
