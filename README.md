@@ -1,4 +1,4 @@
-<img width="1401" height="784" alt="image" src="https://github.com/user-attachments/assets/5866d4c1-5bc6-4b41-855b-6ecfe99cad51" /><img width="1401" height="784" alt="image" src="https://github.com/user-attachments/assets/5866d4c1-5bc6-4b41-855b-6ecfe99cad51" />📊 SN Corp Power BI Dashboard
+<img width="1401" height="784" alt="image" src="https://github.com/user-attachments/assets/5866d4c1-5bc6-4b41-855b-6ecfe99cad51" />📊 SN Corp Power BI Dashboard
 This project is an interactive Power BI dashboard built during a workshop led by
 Jatan Shah (Microsoft Verified Power BI Expert).
 The dashboard analyzes company-wide sales, cost, profit, regional performance, and customer behavior.
